@@ -10,8 +10,7 @@ Blue (light): #4a506d
 /* Navigation */
 .navbar {opacity:0.85;}
 .nav-link:hover {color:#fff;}
-.logo {max-height:5rem; opacity:0.85;}
-.logo:hover {opacity:1;}
+.logo {max-height:5rem;}
 
 /* Typography */
 p {font-size:1.25rem;}
